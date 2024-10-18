@@ -1,8 +1,7 @@
 # CPlusPlus-LeetCode-Solutions
-Unlocking the secrets of algorithms with elegant C++ solutions for LeetCode problems! 🚀✨ Dive into a collection of efficient code snippets that solve challenges with style! 🌟 #CodingJourney #LeetCode
-# LeetCode C++ Solutions
 
-Welcome to the **LeetCode C++ Solutions** repository! 🎉
+Welcome to the **CPlusPlus-LeetCode-Solutions** repository! 🎉
+Unlocking the secrets of algorithms with elegant C++ solutions for LeetCode problems! 🚀✨ Dive into a collection of efficient code snippets that solve challenges with style! 🌟 #CodingJourney #LeetCode
 
 This repository contains a collection of my effective solutions to various LeetCode problems implemented in C++. Each solution is designed to demonstrate efficient algorithms and coding practices.
 
@@ -10,6 +9,7 @@ This repository contains a collection of my effective solutions to various LeetC
 - Each problem is organized in its own folder, containing:
   - **Problem Description**: A brief overview of the problem.
   - **Solution Code**: The C++ implementation of the solution.
+  - **Test Cases**: Sample test cases to validate the solution.
 
 ## 🚀 Features
 - **Optimized Solutions**: Solutions that prioritize efficiency and performance.
@@ -20,5 +20,4 @@ This repository contains a collection of my effective solutions to various LeetC
 To get started with the solutions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raghulskr12/LeetCode-CPlusPlus-Solutions.git
-
+   git clone https://github.com/Raghulskr12/CPlusPlus-LeetCode-Solutions.git
