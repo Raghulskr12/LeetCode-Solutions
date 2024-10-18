@@ -9,7 +9,6 @@ This repository contains a collection of my effective solutions to various LeetC
 - Each problem is organized in its own folder, containing:
   - **Problem Description**: A brief overview of the problem.
   - **Solution Code**: The C++ implementation of the solution.
-  - **Test Cases**: Sample test cases to validate the solution.
 
 ## 🚀 Features
 - **Optimized Solutions**: Solutions that prioritize efficiency and performance.
