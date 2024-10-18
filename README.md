@@ -20,5 +20,5 @@ This repository contains a collection of my effective solutions to various LeetC
 To get started with the solutions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LeetCode-CPlusPlus-Solutions.git
+   git clone https://github.com/Raghulskr12/LeetCode-CPlusPlus-Solutions.git
 
