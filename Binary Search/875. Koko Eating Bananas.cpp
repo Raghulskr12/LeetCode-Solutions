@@ -4,8 +4,7 @@ class Solution {
         bool canEatAll(vector<int>& piles, int speed, int h) {
             long long totalHours = 0;  // Stores total hours needed
             for (int bananas : piles) {
-                totalHours += bananas / speed;  // Time taken for full divisions
-                if (bananas % speed != 0) totalHours++;  // Add extra hour if there's a remainder
+                totalHours += ceil((double)bananas / (double)speed);  // Time taken for full divisions
             }
             return totalHours <= h;  // Return true if it's possible within 'h' hours
         }
