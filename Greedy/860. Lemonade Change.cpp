@@ -1,7 +1,9 @@
 class Solution {
     public:
         bool lemonadeChange(vector<int>& bills) {
-            int fiveDollarCount = 0;  // Count of $5 bills
+            int fiveDollarCount = 0;  
+            
+            // Count of $5 bills
             int tenDollarCount = 0;   // Count of $10 bills
     
             for (int i = 0; i < bills.size(); i++) {
