@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-        int turnCount = 0;  // Counter to track the number of turns
+        int turnCount = 0;  // Counter to track the number of turns rotations
         int decrement = 10;  // Start subtracting from 10 and decrease it over time
 
         // Continue the game until the number becomes less than the current decrement value
