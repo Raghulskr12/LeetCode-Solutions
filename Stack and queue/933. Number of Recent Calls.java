@@ -11,7 +11,7 @@ class RecentCounter {
     
 
     // Process a new ping
-    public int ping(int currentTime) {
+    public int ping(int cur rentTime) {
 
         // Add current request
         requestQueue.offer(currentTime);
